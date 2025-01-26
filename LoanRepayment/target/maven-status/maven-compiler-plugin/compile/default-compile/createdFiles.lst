@@ -1,8 +1,0 @@
-Service\LoanRepaymentServiceImpl.class
-Model\Error.class
-Service\LoanRepaymentService.class
-Model\LoanRequest.class
-Model\RepaymentResponse.class
-Controller\LoanRepaymentController.class
-Model\RepaymentDto.class
-LoanRepayment\LoanRepayment.class
